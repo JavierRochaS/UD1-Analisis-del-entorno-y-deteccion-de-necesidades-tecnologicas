@@ -12,4 +12,5 @@ El mercado laboral actual demanda perfiles técnicos capaces de asegurar la cont
 1.  Ciberseguridad (protección ante ransomware).
 2.  Administración de sistemas híbridos.
 
-* **Fuente:** [Informe del Mercado de Trabajo en Sevilla (SEPE)](https://www.sepe.es/HomeSepe/que-es-el-sepe/observatorio/informes-mercado-trabajo/informes-provinciales.html)
+* **Fuente:** [Observatorio de las Ocupaciones del SEPE - Informes Provinciales](https://www.sepe.es/HomeSepe/que-es-observatorio/informes-anuales-mercado-trabajo-provincial-municipal.html)
+   *(Instrucciones: En la web, seleccionar "Informes del mercado de trabajo provincial" > "Sevilla" > "2024").*
