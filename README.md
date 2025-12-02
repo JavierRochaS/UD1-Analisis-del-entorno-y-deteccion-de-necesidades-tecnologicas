@@ -31,7 +31,5 @@ Este repositorio contiene la documentación inicial para el diseño de una infra
 6. [**Guion inicial del proyecto**](./06_Guion.md)
    *Fases de ejecución técnica y cronograma.*
 
----
-
 
 
