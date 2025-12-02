@@ -4,7 +4,7 @@
 
 **Módulo:** Proyecto Intermodular (ASIR)
 
-**Curso:** 2024/2025
+**Curso:** 2025/2026
 
 ---
 
