@@ -3,7 +3,7 @@
 ## Situación Económica en Andalucía y Sevilla
 Según el último **Informe de Coyuntura Económica**, la provincia de Sevilla actúa como motor de la región, liderando el crecimiento gracias al impulso de zonas como el PCT Cartuja y la digitalización de la industria.
 
-* **Fuente Económica:** [Informe de Coyuntura - Cámara de Comercio de Sevilla](https://fundacioncamaradesevilla.com/informes/)
+* **Fuente Económica:** [Informe de Coyuntura - Cámara de Comercio de Sevilla](https://fundacioncamaradesevilla.com/informes/) (Basado tambien en el ultimo informe del 2024 para que fuera acorde con el sepe, ya que no consta del año 2025 en el sepe)
 
 Sin embargo, en el entorno de las PYMES tradicionales (polígonos industriales), existe una brecha digital significativa que requiere intervención técnica.
 
