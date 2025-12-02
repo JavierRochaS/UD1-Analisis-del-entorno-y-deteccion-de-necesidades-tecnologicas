@@ -15,6 +15,7 @@ El coste de implementación es mínimo, ideal para la situación actual de la PY
     * **Aplicaciones:** Nextcloud (Colaboración) y Grafana (Monitorización).
 3.  **Subvenciones:** Proyecto apto para el **Kit Digital** (Ciberseguridad y Oficina Virtual).
     * **Fuente Oficial:** [Boletín Oficial de la Junta de Andalucía (Buscador BOJA)](https://www.juntadeandalucia.es/boja)
+    * **Programa Estatal:** [Acelera Pyme - Kit Digital](https://www.acelerapyme.gob.es/kit-digital)
 
 ## Beneficios Esperados
 * **Ahorro:** Cero inversión en electrónica de red nueva.
