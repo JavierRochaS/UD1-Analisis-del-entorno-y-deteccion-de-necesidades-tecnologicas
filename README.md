@@ -1,10 +1,10 @@
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
-**Alumno:** [TU NOMBRE]
+**Alumno:** Javier Alejandro Rocha Sánchez
 
 **Módulo:** Proyecto Intermodular (ASIR)
 
-**Curso:** 2024/2025
+**Curso:** 2025/2026
 
 ---
 
