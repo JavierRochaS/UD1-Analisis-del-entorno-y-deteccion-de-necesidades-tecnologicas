@@ -3,7 +3,7 @@
 ## Situación Actual en Andalucía y Sevilla
 Andalucía se encuentra en un momento de expansión tecnológica. Según el **Informe de Coyuntura Económica**, la provincia de Sevilla lidera el crecimiento regional, concentrando gran parte de la actividad TIC gracias al impulso del PCT Cartuja y la digitalización de áreas industriales.
 
-* **Fuente Económica:** [Cámara de Comercio de Sevilla - Informes de Coyuntura]([https://fundacioncamaradesevilla.com/informes/](https://camaradesevilla.com/wp-content/uploads/2024/11/Informe-3Q-24.pdf))
+* **Fuente Económica:** [Cámara de Comercio de Sevilla - Informes de Coyuntura](https://fundacioncamaradesevilla.com/informes/](https://camaradesevilla.com/wp-content/uploads/2024/11/Informe-3Q-24.pdf)
   *(Referencia: Informes trimestrales 2024/2025 que detallan el crecimiento del PIB andaluz).*
 
 A pesar de este crecimiento, existe una **brecha digital** en las pymes situadas en polígonos periféricos (como en Coria del Río), donde la adopción de tecnologías como la nube o la ciberseguridad avanzada aún es baja comparada con las grandes capitales.
