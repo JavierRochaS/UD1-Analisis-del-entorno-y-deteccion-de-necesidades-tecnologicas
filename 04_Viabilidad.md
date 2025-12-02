@@ -1,18 +1,22 @@
 # 4. Oportunidades y viabilidad del proyecto
 
-## Análisis de Viabilidad Técnica
-El proyecto es técnicamente viable y se ajusta a las competencias de un Técnico Superior en ASIR:
-* **Hardware:** Se reutilizará el cableado existente. Se adquirirá un servidor de unos 800€ y un SAI.
-* **Competencias:** Se desplegaran tecnologías punteras en el sector como **Grafana y Prometheus** para la visualización de métricas, demostrando capacidad de administración avanzada.
+## Viabilidad Técnica (Competencias ASIR)
+El proyecto demuestra capacidad de adaptación al entorno disponible:
+* **Sin Coste en Red:** La seguridad se gestiona a nivel de **Sistema Operativo y Firewall**, demostrando dominio de Linux/Windows Server.
+* **Redundancia Lógica:** Uso de **DHCP Failover** para proteger la conectividad sin duplicar hardware físico.
+* **Infraestructura Integral:** Despliegue de servicios Web, Datos y Directorio en servidores virtualizados.
 
-## Análisis de Viabilidad Económica
-Para una PYME, la inversión se justifica mediante el ahorro de costes y subvenciones:
+## Viabilidad Económica
+El coste de implementación es mínimo, ideal para la situación actual de la PYME:
 
-1.  **Uso de Software Libre:** Se priorizará el uso de sistemas Linux (Ubuntu Server) y herramientas Open Source gratuitas (**Grafana, Prometheus, Node Exporter**), eliminando costes de licencias de software de monitorización propietario.
-2.  **Ayudas Públicas:** El proyecto es eligible para el **Kit Digital** (Bono para ciberseguridad y oficina virtual) y las ayudas a la Transformación Digital de la Junta de Andalucía.
+1.  **Hardware Existente:** Se aprovecha el router y cableado actual. Solo se requiere un equipo para actuar de servidor (o reutilizar uno potente).
+2.  **Software Open Source:**
+    * **Servicios:** Linux (Ubuntu/Debian) para DHCP, Web y Base de Datos.
+    * **Aplicaciones:** Nextcloud (Colaboración) y Grafana (Monitorización).
+3.  **Subvenciones:** Proyecto apto para el **Kit Digital** (Ciberseguridad y Oficina Virtual).
     * **Fuente Oficial:** [Boletín Oficial de la Junta de Andalucía (Buscador BOJA)](https://www.juntadeandalucia.es/boja)
-    * **Programa Estatal:** [Acelera Pyme - Kit Digital](https://www.acelerapyme.gob.es/kit-digital)
+
 ## Beneficios Esperados
-* **Continuidad de Negocio:** Reducción del tiempo de parada (Downtime).
-* **Control Total:** Visualización del estado de la red en tiempo real.
-* **Cumplimiento Legal:** Evitar multas por incumplimiento del RGPD y asegurar la trazabilidad.
+* **Ahorro:** Cero inversión en electrónica de red nueva.
+* **Resiliencia:** La red soporta la caída de un servidor DHCP.
+* **Productividad:** Trabajo colaborativo eficiente mediante la Nube Privada.
