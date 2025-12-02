@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="img/estructura.png" alt="Estructura Visual del Proyecto" width="80%">
+  <img src="img/estructura.png" alt="Estructura Visual del Proyecto" width="90%">
 </p>
 
 
