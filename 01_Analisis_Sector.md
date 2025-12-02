@@ -16,4 +16,5 @@ Las ocupaciones con mejores perspectivas para 2025 (Tabla 12 del informe) incluy
 2.  **Técnicos de soporte y administradores:** Se detecta dificultad de cobertura en puestos como "Diseñadores y administradores de bases de datos" por falta de competencias técnicas (Tabla 16 del informe).
 
 * **Fuente Laboral:** *Informe del Mercado de Trabajo de Sevilla 2025* (SEPE).
-* **Enlace al Organismo:** [Observatorio de las Ocupaciones del SEPE](https://www.sepe.es/HomeSepe/que-es-el-sepe/observatorio.html)
+* **Fuente Oficial:** [Observatorio de las Ocupaciones del SEPE - Informes Provinciales](https://www.sepe.es/HomeSepe/que-es-observatorio/informes-anuales-mercado-trabajo-provincial-municipal.html)
+   *(Instrucciones: En la web, seleccionar "Informes del mercado de trabajo provincial" > "Sevilla" > "2024").*
