@@ -1,20 +1,20 @@
 # 1. Análisis del sector tecnológico
 
-## Situación Actual en Andalucía y Sevilla
-Andalucía se encuentra en un momento de expansión tecnológica. Según el **Informe de Coyuntura Económica**, la provincia de Sevilla lidera el crecimiento regional, concentrando gran parte de la actividad TIC gracias al impulso del PCT Cartuja y la digitalización de áreas industriales.
+## Situación Económica en Andalucía y Sevilla
+Según el último **Informe de Coyuntura Económica**, la provincia de Sevilla actúa como motor de la región, liderando el crecimiento gracias al impulso de zonas como el PCT Cartuja y la digitalización de la industria.
 
-* **Fuente Económica:** [Cámara de Comercio de Sevilla - Informes de Coyuntura](https://fundacioncamaradesevilla.com/informes/](https://camaradesevilla.com/wp-content/uploads/2024/11/Informe-3Q-24.pdf)
-  *(Referencia: Informes trimestrales 2024/2025 que detallan el crecimiento del PIB andaluz).*
+* **Fuente Económica:** [Informe de Coyuntura - Cámara de Comercio de Sevilla](https://fundacioncamaradesevilla.com/informes/)
 
-A pesar de este crecimiento, existe una **brecha digital** en las pymes situadas en polígonos periféricos (como en Coria del Río), donde la adopción de tecnologías como la nube o la ciberseguridad avanzada aún es baja comparada con las grandes capitales.
+Sin embargo, en el entorno de las PYMES tradicionales (polígonos industriales), existe una brecha digital significativa que requiere intervención técnica.
 
-## Demanda de Perfiles (ASIR)
-Según los datos extraídos del **Informe del Mercado de Trabajo de Sevilla (Datos 2024)**, el sector Servicios es el motor de la provincia (78,48% de ocupados) y existe una demanda creciente de perfiles técnicos.
+## Mercado Laboral para ASIR (Datos Oficiales 2024/2025)
+Basándonos en el **Informe del Mercado de Trabajo de Sevilla (Datos 2024)** publicado por el SEPE, el sector Servicios concentra el **78,48%** de la ocupación, pero el sector tecnológico destaca por sus perspectivas de futuro:
 
-Las ocupaciones con mejores perspectivas para 2025 (Tabla 12 del informe) incluyen:
-1.  **Programación y consultoría informática:** Situada en el "Top 10" de actividades con mejor proyección.
-2.  **Técnicos de soporte y administradores:** Se detecta dificultad de cobertura en puestos como "Diseñadores y administradores de bases de datos" por falta de competencias técnicas (Tabla 16 del informe).
+1.  **Alta Demanda:** La actividad de **"Programación, consultoría y otras actividades relacionadas con la informática"** se sitúa en el **Top 10** de actividades con mejores perspectivas de empleo para 2025 en la provincia (Tabla 12 del informe).
+2.  **Puestos Vacantes:** Existe dificultad para cubrir puestos técnicos. Según la encuesta a expertos (Tabla 16), faltan candidatos para:
+    * **"Diseñadores y administradores de bases de datos"**.
+    * **"Analistas y diseñadores de software"**.
+    * **"Técnicos en electrónica y soporte"**.
 
-* **Fuente Laboral:** *Informe del Mercado de Trabajo de Sevilla 2025* (SEPE).
 * **Fuente Oficial:** [Observatorio de las Ocupaciones del SEPE - Informes Provinciales](https://www.sepe.es/HomeSepe/que-es-observatorio/informes-anuales-mercado-trabajo-provincial-municipal.html)
    *(Instrucciones: En la web, seleccionar "Informes del mercado de trabajo provincial" > "Sevilla" > "2024").*
